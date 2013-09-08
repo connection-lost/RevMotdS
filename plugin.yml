@@ -1,0 +1,6 @@
+name: RevMotd
+main: me.crafter.mc.revmotd.RevMotd
+version: 1.0
+description: >
+             Display Motd to players using scoreboard. This includes server name, player number, ping and day count.
+commands:
